@@ -30,6 +30,7 @@ Blog.init(
         key: 'id',
       },
     },
+    comments: 
   },
   {
     sequelize,
